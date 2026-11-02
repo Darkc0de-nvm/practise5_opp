@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Task6_ChooseTool/">
+    <File Path="Task6.md" />
+  </Folder>
+  <Project Path="Task1_ColorFactoryMethods/Task1_ColorFactoryMethods.csproj" />
+  <Project Path="Task2_SeparateFactory/Task2_SeparateFactory.csproj" Id="6361ff27-f25b-4576-aca1-fc128cd68e1c" />
+  <Project Path="Task3_AsyncFactory/Task3_AsyncFactory.csproj" Id="15498817-babd-4b68-953a-dd35d81d00b1" />
+  <Project Path="Task4_AbstractFactory/Task4_AbstractFactory.csproj" Id="f9abd00a-88ac-4f91-a801-a97654b61868" />
+  <Project Path="Task5_RegistryFactory/Task5_RegistryFactory.csproj" Id="9f1d0db2-146b-40e6-bb5e-a245ab882100" />
+</Solution>
